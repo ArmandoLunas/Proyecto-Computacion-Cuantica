@@ -1,2 +1,2 @@
-# Proyecto-Computacion-Cuantica
+# Proyecto Computación Cuántica
 Clasificación de vinos.
